@@ -107,4 +107,4 @@ I hope these Modules and Exercises will make it easier for you to gain the neces
 
 ## Errata / Improvements
 
-If you find errors or would like to suggest an improvement to any of the Modules/Exercises, please read the [Contribution Guide](https://git.unic.com/projects/FESKILL/repos/fe-skills-jr/CONTRIBUTING.md) and then open a Pull Request.
+If you find errors or would like to suggest an improvement to any of the Modules/Exercises, please read the [Contribution Guide](CONTRIBUTING.md) and then open a Pull Request.
