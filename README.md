@@ -101,6 +101,10 @@ Once you have installed the dependencies, you can start up the dev environment a
 npm start
 ```
 
+## Working on Modules
+
+At the root of this project, you will find a directory called `modules` which contains a directory for each module. Inside of each module directory you will find directions walking you through each exercise. Let's get started with [Exercise 1 in `html5-a11y`](modules/html5-a11y/ex-1.md).
+
 ## Motivation
 
 I hope these Modules and Exercises will make it easier for you to gain the necessary skills to climb the maturity ladder. Take your time working through the Exercises, there are often links to external resources, take the time to read through them. It is better to develop a deep understanding of these core concepts early as it will make the more advanced subjects easier later.

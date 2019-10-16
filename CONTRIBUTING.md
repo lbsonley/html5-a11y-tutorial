@@ -29,6 +29,10 @@ git tag -f html-a11y-ex-3
 git push origin --tags
 ```
 
+* Update exercise instructions to reflect the changes
+
+* Update README.md if necessary
+
 That's it.
 
 Thanks for your contribution!
