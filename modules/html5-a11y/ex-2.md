@@ -10,6 +10,12 @@ Make sure you have the development environment up and running.
 npm start
 ```
 
+If you did not start from the beginning, `html5-a11y-ex-0`, shame on you. If you are unaffected by shaming, then you should checkout the following tag now, in order to start the project from the end of `html5-a11y-ex-1`.
+
+```sh
+git checkout html5-a11y-ex-1
+```
+
 ## Semantic Page Elements
 
 *What does Semantic HTML mean?*
@@ -259,4 +265,4 @@ To recap, we learned about seven new HTML elements; `header`, `nav`, `main`, `se
 
 By properly using these elements and attributes, we can take advantage of a lot of the native accessibility features built in to browsers. Leaving us with small, manageable tasks like skiplinks to enhance accessible interactions.
 
-In [Exercise 3](/ex-3.md), we will look at the `img` attributes `srcset` and `sizes` to control the size of images that are requested based on the size of the viewport being used to access the site. By using these attribtues, we will improve the performance of our web site when viewed on portable devices by reducing the amount of data transferred.
+In [Exercise 3](ex-3.md), we will look at the `img` attributes `srcset` and `sizes` to control the size of images that are requested based on the size of the viewport being used to access the site. By using these attribtues, we will improve the performance of our web site when viewed on portable devices by reducing the amount of data transferred.
