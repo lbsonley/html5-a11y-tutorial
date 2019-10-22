@@ -4,7 +4,7 @@ Thank you for considering making a contribution. Before you get started on your 
 
 ## Tutorial Workflow
 
-This repository is primarily used as a tutorial for developers at Unic to gain skills. As developers work thorugh the examples, they have the ability to preview the answers to Exercises by checking out out a specific `branch` or `tag`. 
+This repository is primarily used as a tutorial for developers at Unic to gain skills. As developers work thorugh the examples, they have the ability to preview the answers to Exercises by checking out out a specific `branch` or `tag`.
 
 **Therefore, it is very important to maintain the separation of features by `branch` and `tag`.**
 
