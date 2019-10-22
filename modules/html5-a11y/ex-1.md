@@ -114,6 +114,19 @@ Let's follow these best practice and add a `charset` to our page.
 ...
 ```
 
+## The `body`
+
+Immediately following the `head` element, before the closing `html` tag, we want to add a `body` element. The `body` element represents the content of an HTML document, or, the stuff that the user sees. As always, here is a link to the [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body).
+
+Now that you have taken a look into the Mozilla docs and clearly understand the function of the `body` element, let's add it to our page and move the title inside of it.
+
+```html
+...
+<body>
+  <h1>Hello World!</h1>
+</body>
+```
+
 ## Wrapping Up
 
 Congratulations, you have completed Exercise 1 of the Junior Front End Developer Skills Tutorial. You now know the correct way to structure and HTML page to ensure that it is properly interpreted by the browser. Make sure you took the time to browse through the complete documentation in the links provided above.
