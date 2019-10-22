@@ -10,6 +10,12 @@ Make sure you have the development environment up and running.
 npm start
 ```
 
+At this point you should checkout the following `tag`
+
+```sh
+git checkout html-a11y-ex-0
+```
+
 ## Basic Page Structure
 
 There are a few basic elements that every HTML page needs in order to ensure it is properly rendered by the browser. In this exercise, we are going to take a look at these structural elements:
