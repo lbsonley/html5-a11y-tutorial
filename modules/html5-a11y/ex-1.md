@@ -158,4 +158,4 @@ git commit -m 'html5-a11y-ex-1'
 git push origin
 ```
 
-In the next exercise, we will add some content to our home page using semantically correct HTML 5 elements. [Instructions for Exercise 2](/ex-2.md).
+In the next exercise, we will add some content to our home page using semantically correct HTML 5 elements. [Instructions for Exercise 2](ex-2.md).
