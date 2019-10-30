@@ -11,6 +11,12 @@ This repository is organized into Modules. A Module is a series of Exercises whi
 
 If you get stuck on a certain Exercise or want to jump ahead to a specific skill, you can use the correct command from below.
 
+## Prerequisites
+
+In order to follow along with this tutorial you will need Git installed on your command line. For Mac users, you can install XCode from the App Store. Can someone well versed with windows offer a solution for installing Git on a Windows machine? It is also recommended that you install [Node Version Manager](https://github.com/nvm-sh/nvm) to allow the installation of multiple versions of node.
+
+Now that you have your tools installed. Let's get to work!
+
 ## Modules, Exercises and their Tags
 
 In order to checkout a completed Module or completed Exercise, use the following commands.
