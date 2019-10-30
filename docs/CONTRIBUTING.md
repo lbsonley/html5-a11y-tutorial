@@ -10,7 +10,15 @@ This repository is primarily used as a tutorial for developers at Unic to gain s
 
 ## Important Steps for Pull Requests
 
-* Before making your changes, make sure that you have checked out the appropriate Module branch.
+* Before making your changes, make sure that you have checked out the appropriate `tag`.
+
+* Make a new branch based on this tag
+
+```sh
+git checkout html5-a11y-ex-1
+
+git checkout -b feature/update-html5-a11y-ex-1
+```
 
 * Only make changes for one Exercise at a time.
 
@@ -18,6 +26,11 @@ This repository is primarily used as a tutorial for developers at Unic to gain s
   * commit your code
   * update the tag
   * push your code with tags
+  * open a PR against master and add Me as reviewer
+
+* Update exercise instructions to reflect the changes (located in `docs/` directory)
+
+* Update `docs/README.md` if necessary
 
 ```sh
 git add .
@@ -28,10 +41,6 @@ git tag -f html-a11y-ex-3
 
 git push origin --tags
 ```
-
-* Update exercise instructions to reflect the changes
-
-* Update README.md if necessary
 
 That's it.
 
