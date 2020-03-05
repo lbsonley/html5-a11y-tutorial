@@ -44,7 +44,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.6.0",
+    "@babel/polyfill": "^7.8.7",
     "core-js": "^3.3.2",
     "docsify-cli": "4.3.0"
   }
